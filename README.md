@@ -1,5 +1,6 @@
 # Saturn Widget
 Easily deploy an alternative mirror for any token market listed on Saturn Protocol, an exchange protocol for peer to peer trading on Ethereum and Ethereum Classic featuring automated and free token listings.
+
 * Website: [saturn.network](http://saturn.network)
 * Learn: [what is saturn network?](https://www.saturn.network/blog/what-is-saturn-network/)
 * Twitter: [@SaturnProtocol](https://twitter.com/SaturnProtocol)
@@ -9,10 +10,15 @@ Easily deploy an alternative mirror for any token market listed on Saturn Protoc
 * Email: [contact@saturn.network](mailto:contact@saturn.network)
 
 ## Key features?
+
 ✅ Open source.
+
 ✅ Lightweight, can be deployed anywhere.
+
 ✅ Highly customizable.
+
 ✅ Supports Ethereum and Ethereum Classic.
+
 ✅ ERC20 and ERC223 tokens.
 
 ## Development
