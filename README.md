@@ -37,14 +37,14 @@ It will open up the default Saturn Widget configuration in your web browser `htt
 
 To configure your mirror open up `/src/config.js` with your favourite text editor. It will look as follows:
 
-![fill-in-as-applicable-1](/blog/content/images/2020/06/fill-in-as-applicable-1.PNG)
+![fill-in-as-applicable-1](fill-in-as-applicable.png)
 
 You should amend it to reflect the details of the token you wish to be tradable on your mirror. Take care to set `TRADING_COMPETITION_ENABLED` to `true` or `false` depending on if you would like to generate a leaderboard or not. You will need to place the graphic and logo assets you wish to use in the `/public/` folder. Everytime you update and save the `/src/config.js` file, you will notice that your web browser will refresh `http://localhost:3000/`. This way you can easily see how your changes will look.
 
 ### Style Configuration
 Your mirror's frontend general theme (such as the default background color) is all configured in the following `/src/style.scss` file. You will probably want to change the top lines:
 
-![top-lines](/blog/content/images/2020/06/top-lines.PNG)
+![top-lines](top-lines.png)
 
 To create a theme that reflects your community. Again simply save any edits to watch them updated in realtime on your web browser. That's all you need to know to make basic changes! If you know react and javascript, you can fully customize the UI located in the `src` folder. You may also be interested in making changes to the .js files found in `/shared/` which control how users connect to their wallet and what messages are displayed when they are not logged in.
 
