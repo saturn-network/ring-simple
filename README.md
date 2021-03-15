@@ -1,4 +1,4 @@
-# Saturn Widget
+# BlackDiamond SC Widget
 Easily deploy an alternative mirror for any token market listed on Saturn Protocol, an exchange protocol for peer to peer trading on Ethereum and Ethereum Classic featuring automated and free token listings.
 
 * Website: [blackdiamondsc.tec](http://blackdiamondsc.tech/)
