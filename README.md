@@ -1,13 +1,12 @@
 # Saturn Widget
 Easily deploy an alternative mirror for any token market listed on Saturn Protocol, an exchange protocol for peer to peer trading on Ethereum and Ethereum Classic featuring automated and free token listings.
 
-* Website: [saturn.network](http://saturn.network)
-* Learn: [what is saturn network?](https://www.saturn.network/blog/what-is-saturn-network/)
-* Twitter: [@SaturnProtocol](https://twitter.com/SaturnProtocol)
-* Forum: [forum.saturn.network](http://forum.saturn.network)
-* Reddit: [/r/SaturnNetwork/](https://reddit.com/r/SaturnNetwork/)
-* Discord: [SaturnNetwork](https://discord.gg/9P6aqEG)
-* Email: [contact@saturn.network](mailto:contact@saturn.network)
+* Website: [blackdiamondsc.tec](http://blackdiamondsc.tech/)
+* Learn: [what is blackdiamond sc?](http://blackdiamondsc.tech/)
+* Twitter: [@ScBlackDiamond](https://twitter.com/scblackdiamond/status/1371030613029961728?s=21)
+* Reddit: [u/BlackDiamondSC](https://www.reddit.com/u/BlackDiamondSC/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+* Discord: [BlackDiamondSCToken](https://discord.gg/nkbF9Hr6)
+* Email: [support@blackdiamondsc.tech](mailto:support@blackdiamondsc.tech)
 
 ## Key features?
 
