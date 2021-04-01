@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/saturn-network/ring-simple)
+
 # BlackDiamond SC Widget
 Easily deploy an alternative mirror for any token market listed on Saturn Protocol, an exchange protocol for peer to peer trading on Ethereum and Ethereum Classic featuring automated and free token listings.
 
